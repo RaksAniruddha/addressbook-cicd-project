@@ -62,7 +62,7 @@ You should now have a GlassFish server running on localhost:8080 and a browser t
 
 Importing in Eclipse
 --------------------
-These instructions were tested on Eclipse IDE for Java EE Developers Luna SR2. You can get it from http://eclipse.org/downloads/
+These instructions were tested on Eclipse IDE for Java EE Developers Luna SR2.nbhasvcjascvjsac You can get it from http://eclipse.org/downloads/
 
 To checkout and run the project in Eclipse, do:
 - File -> Import...
